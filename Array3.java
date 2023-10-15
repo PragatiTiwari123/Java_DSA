@@ -22,7 +22,7 @@ public class Array3 {
         return a;
     }
     public static void main(String []args){
-        int arr[]={3 ,-6 ,1 ,0};
+        int arr[]={3 ,4 ,-1, 1};
         int end=arr.length-1;
         System.out.println(first_missing(arr));
     }
